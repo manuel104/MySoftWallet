@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1032852560426",
+    "firebase_url": "https://mysoftwallet.firebaseio.com",
+    "project_id": "mysoftwallet",
+    "storage_bucket": "mysoftwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032852560426:android:359f5e92b38aeccc",
+        "android_client_info": {
+          "package_name": "com.manuelsoft.mysoftwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032852560426-nurgbq2s93lhamr86hrf6sa16a0479jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_9SHYTp5s3WRrE-IO4hwknz6eTJCfhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
